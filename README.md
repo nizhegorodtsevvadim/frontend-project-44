@@ -7,9 +7,18 @@
 Instal link
 [![asciicast](https://asciinema.org/a/H7o7NhGPy8Gfs9ODNItlBDr82.svg)](https://asciinema.org/a/H7o7NhGPy8Gfs9ODNItlBDr82)
 
-Play games even
+Play game even
+
+You luse
 [![asciicast](https://asciinema.org/a/tie6IlUgUOgBFC4bEVej7W3cC.svg)](https://asciinema.org/a/tie6IlUgUOgBFC4bEVej7W3cC)
 
-Win game
+You win
 [![asciicast](https://asciinema.org/a/WUoSzSpXAPohb7XXMtKwUhXUi.svg)](https://asciinema.org/a/WUoSzSpXAPohb7XXMtKwUhXUi)
 
+Play game calc
+
+You luse
+[![asciicast](https://asciinema.org/a/JN6D3femUddzwnsbY1uihPNpa.svg)](https://asciinema.org/a/JN6D3femUddzwnsbY1uihPNpa)
+
+You win
+[![asciicast](https://asciinema.org/a/lzEM4FodWP4meEp3OINBIYrvd.svg)](https://asciinema.org/a/lzEM4FodWP4meEp3OINBIYrvd)
