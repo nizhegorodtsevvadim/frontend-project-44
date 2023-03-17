@@ -1,4 +1,4 @@
-import runGames, { roundsNumber } from '../index.js';
+import runGames from '../index.js';
 import getRandomNumber from '../utils.js';
 
 const description = 'Answer "yes" if the number is even, otherwise answer "no".';
@@ -11,12 +11,8 @@ const playEven = () => {
   return [question, corretAnswer];
 };
 
-const runEvenGame = () => {
-  const rounds = [];
-  for (let i = 0; i < roundsNumber; i += 1) {
-    rounds[i] = playEven();
-  }
-  return runGames(rounds, description);
+const runEven = () => {
+  runGames(playEven, description);
 };
 
-export default runEvenGame;
+export default runEven;

@@ -1,4 +1,4 @@
-import runGames, { roundsNumber } from '../index.js';
+import runGames from '../index.js';
 import getRandomNumber from '../utils.js';
 
 const description = 'What is the result of the expression?';
@@ -17,8 +17,8 @@ const calculate = (num1, num2, operation) => {
 };
 
 const playCalculate = () => {
-  const first = getRandomNumber(1, 20);
-  const second = getRandomNumber(1, 20);
+  const first = getRandomNumber(1, 100);
+  const second = getRandomNumber(1, 100);
   const symbol = ['+', '-', '*'];
   const operator = symbol[getRandomNumber(0, symbol.length - 1)];
   const question = `${first} ${operator} ${second}`;
@@ -27,11 +27,7 @@ const playCalculate = () => {
 };
 
 const runCalculate = () => {
-  const rounds = [];
-  for (let i = 0; i < roundsNumber; i += 1) {
-    rounds[i] = playCalculate();
-  }
-  return runGames(rounds, description);
+  runGames(playCalculate, description);
 };
 
 export default runCalculate;

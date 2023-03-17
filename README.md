@@ -22,3 +22,11 @@ You luse
 
 You win
 [![asciicast](https://asciinema.org/a/lzEM4FodWP4meEp3OINBIYrvd.svg)](https://asciinema.org/a/lzEM4FodWP4meEp3OINBIYrvd)
+
+Play game gcd
+
+You luse
+[![asciicast](https://asciinema.org/a/3kAl1cs97PXVoclv4GQ2Zg5UC.svg)](https://asciinema.org/a/3kAl1cs97PXVoclv4GQ2Zg5UC)
+
+You win
+[![asciicast](https://asciinema.org/a/b4evADrybnn7QCycGw3eWGfxv.svg)](https://asciinema.org/a/b4evADrybnn7QCycGw3eWGfxv)
