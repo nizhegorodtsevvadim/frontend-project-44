@@ -38,3 +38,11 @@ You luse
 
 You win
 [![asciicast](https://asciinema.org/a/TC6EsqYcCU9zpkENwvAEQFozK.svg)](https://asciinema.org/a/TC6EsqYcCU9zpkENwvAEQFozK)
+
+Play game prime
+
+You luse
+[![asciicast](https://asciinema.org/a/aytDbGpZvVfZ0btmMJdL4mXIm.svg)](https://asciinema.org/a/aytDbGpZvVfZ0btmMJdL4mXIm)
+
+You win
+[![asciicast](https://asciinema.org/a/Be6MlUtr6BttYHhsrE9hsUYMM.svg)](https://asciinema.org/a/Be6MlUtr6BttYHhsrE9hsUYMM)
