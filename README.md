@@ -30,3 +30,11 @@ You luse
 
 You win
 [![asciicast](https://asciinema.org/a/b4evADrybnn7QCycGw3eWGfxv.svg)](https://asciinema.org/a/b4evADrybnn7QCycGw3eWGfxv)
+
+Play game progression
+
+You luse
+[![asciicast](https://asciinema.org/a/C1YftPU5fZYsxHWzY9hHCv2z8.svg)](https://asciinema.org/a/C1YftPU5fZYsxHWzY9hHCv2z8)
+
+You win
+[![asciicast](https://asciinema.org/a/TC6EsqYcCU9zpkENwvAEQFozK.svg)](https://asciinema.org/a/TC6EsqYcCU9zpkENwvAEQFozK)
